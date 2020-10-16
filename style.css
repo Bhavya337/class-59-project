@@ -44,7 +44,6 @@ img {
     padding-bottom: 5px;
     font-family: 'Cinzel Decorative', cursive;
     font-size: 20px } 
-link:hover { background-color:beige; }
        
 #welcome {
     position: absolute;
@@ -76,8 +75,11 @@ h1 {
 
 
 .links:hover {
-    background-color:beige;
+    background-color:snow ;
+    text-decoration-color: crimson;
+font-family: 'Dancing Script', cursive;
 }
+
 
 
 
@@ -86,3 +88,6 @@ h1 {
 
 paintingsimg { width: 50%;
     height: 50%;}
+
+
+button {background-color: chartreuse;}
